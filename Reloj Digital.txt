@@ -1,0 +1,19 @@
+segundos=int(input("Introduce el numero de segundos"))
+
+numero_minutos= segundos/60
+
+print(numero_minutos)
+
+numero_horas= segundos/3600
+
+print(numero_horas)
+
+horas=int(input("Introduce el numero de horas"))
+
+numero_minutos= horas*60
+
+print(numero_minutos)
+
+numero_segundos= horas*3600
+
+print(numero_segundos)
