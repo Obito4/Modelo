@@ -1,0 +1,17 @@
+x=int(input("1º"))
+
+y=int(input("2º"))
+
+z=int(input("3º"))
+ 
+if x==y==z :
+
+  print ("3")
+
+elif x==y and x!=z :
+
+ print ("2")
+
+elif x!=y!=z :
+
+  print ("0")
