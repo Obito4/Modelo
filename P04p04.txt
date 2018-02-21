@@ -1,0 +1,10 @@
+numero_1=int(input("Dime un numero"))
+
+suma=0
+
+for i in range (0,numero_1+ 1) :
+
+  suma=suma+i
+
+print(suma)
+   
