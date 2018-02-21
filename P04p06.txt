@@ -1,0 +1,9 @@
+numero_1=int(input("Dime un numero"))
+
+producto=1
+
+for i in range (1,numero_1+ 1) :
+
+  producto=producto*i
+
+print(producto)
