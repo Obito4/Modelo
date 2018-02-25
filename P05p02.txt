@@ -1,0 +1,3 @@
+cadena=input("Di una frase")
+
+print(cadena.count(" ")+1)
