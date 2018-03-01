@@ -1,0 +1,6 @@
+cadena=input("Escribe más de una palabra que esten separadas por un espacio")
+
+espacio=(cadena.find(" "))
+
+
+print((cadena[espacio:])+" "+(cadena[:espacio]))
