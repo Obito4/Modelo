@@ -1,0 +1,8 @@
+cadena=input("Dime una frase")
+
+x=len(cadena)//2
+
+y=len(cadena)
+
+
+print((cadena[x:y])+(cadena[:x]))
