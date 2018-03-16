@@ -1,0 +1,13 @@
+cadena=input("")
+
+print("primera letra t")
+
+print(cadena.find("t"))
+
+print("ultima letra t")
+
+print(cadena.rfind("t"))
+
+print(cadena-cadena.find)
+
+print(cadena-cadena.rfind)
