@@ -1,0 +1,9 @@
+N=int(input("Dime un numero"))
+
+NN=1
+
+while NN**2 <=N :
+
+  print(NN**2)
+
+  NN +=1
