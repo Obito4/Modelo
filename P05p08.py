@@ -1,0 +1,7 @@
+i=("Manaña habrá muchos huespedes")
+print(i)
+h1=i.find("h")
+print("la primera h está en" + " " + str(h1))
+h2=i.rfind('h')
+print("la última h está en" + " " + str(h2))
+print((i[h1:h2+1]))
